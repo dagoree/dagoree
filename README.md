@@ -1,8 +1,7 @@
 Hi 👋
 
 
-const thai = {
-     pronouns: "she" 
+
 
 
 <!--
