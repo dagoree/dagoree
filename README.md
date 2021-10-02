@@ -1,6 +1,6 @@
 Hi 👋
 
-<h2 class="background">Strikethrough title</h2>
+<h2 class="background">Damian Gonzalez title</h2>
 
 
 
