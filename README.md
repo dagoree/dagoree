@@ -1,7 +1,13 @@
 
 ⚡⚡⚡😄😄😄⚡⚡⚡
-### **I'm a web developer !**
+
 # Hi, I'm Damian Gonzalez  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<br>
+<br>
+
+
+### **I'm a web developer !**
 
 
 
@@ -59,7 +65,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
 
-
+ <p ><a href="https://uy.linkedin.com/in/damian-gonzalez-b2396137">Damian Gonzalez</a></p>
 
 [linkedin]: www.linkedin.com/in/damian-gonzalez-b2396137
 [gmail]: mailto:dagoretino@gmail.com
