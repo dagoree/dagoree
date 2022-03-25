@@ -11,7 +11,7 @@
 
 
 
-![Image text](./assets/Publicaci%C3%B3n%20de%20v%C3%ADdeo%20cuadrado%201080x1080%20px.mp4)
+![Image text](./assets/Publicaci%C3%B3n%20de%20v%C3%ADdeo%20cuadrado%201080x1080%20px.gif)
 
 
 <!--
