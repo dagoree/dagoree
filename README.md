@@ -64,8 +64,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
 
-
- <p ><a href="https://uy.linkedin.com/in/damian-gonzalez-b2396137">Damian Gonzalez</a></p>
+<p > <span>|</span> <a href="https://uy.linkedin.com/in/damian-gonzalez-b2396137">Damian Gonzalez</a></p>
 
 [linkedin]: www.linkedin.com/in/damian-gonzalez-b2396137
 [gmail]: mailto:dagoretino@gmail.com
