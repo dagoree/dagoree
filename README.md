@@ -1,7 +1,6 @@
-👋👋👋👋
 
 ⚡⚡⚡😄😄😄⚡⚡⚡
-
+### **I'm a web developer !**
 
 ![Image text](./assets/Publicaci%C3%B3n%20de%20v%C3%ADdeo%20cuadrado%201080x1080%20px.jpeg)
 
@@ -34,25 +33,6 @@ Here are some ideas to get you started:
 
 ![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
-
-### **I'm a web developer !**
-
-
-
-🎓   
-
-
-💻
-
-
-### **If you want to see some highlights of my production so far, check:**
-
-- [Ink Design System](https://ink.carta.com)
-- [Move It - Pomodoro Clock](https://moveit-pomodoro-clock.vercel.app/)
-- [IronNotes](https://github.com/tassiaaccioly/ironnotes-client)
-- [Die Verted - Game](https://tassiaaccioly.github.io/die-verted/) - Version 1.0-alpha 
-- [Find a Flick](https://findaflick.vercel.app) - Find your favorite movies and Series and enjoy trailers and soundtracks in one place!
-- [Spotify Search App](https://spotify-albuns.herokuapp.com/)
 
 
 ### My Stack
