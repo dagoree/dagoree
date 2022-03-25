@@ -1,6 +1,9 @@
 
 ⚡⚡⚡😄😄😄⚡⚡⚡
 ### **I'm a web developer !**
+# Hi, I'm Damian Gonzalez  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 
 ![Image text](./assets/Publicaci%C3%B3n%20de%20v%C3%ADdeo%20cuadrado%201080x1080%20px.jpeg)
 
@@ -21,17 +24,8 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi, I'm Damian Gonzalez  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-
-[<img align="left" alt="dagoree | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="dagoretino | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt=" | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
-
 <br>
 <br>
-
-![](https://www.codewars.com/users/tassiaaccioly/badges/micro)
 
 
 
@@ -45,7 +39,6 @@ Here are some ideas to get you started:
 #### Application a:
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat&logo=styled-components&logoColor=white)
@@ -64,7 +57,7 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white)
-![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat&logo=circleci&logoColor=white)
+
 
 
 
